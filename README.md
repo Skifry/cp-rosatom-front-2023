@@ -1,1 +1,6 @@
-хакатон driveit 2.0 frontend by nesclass and hevav
+хакатон цифровой прорыв всерос 2023 Росатом Расписание frontend by nesclass and hevav
+
+```
+npm install --force
+npm run dev
+```
